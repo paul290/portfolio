@@ -112,11 +112,11 @@ h1, h2, h3, h4, h5, h6 {
 
 /*SECTION HEADERS*/
 #workHeader {
-  background-image: url("../img/code.jpg");
+  background-image: url("https://media.giphy.com/media/12z24MM7XaOA00/giphy.gif");
 }
 
 #contactHeader {
-  background-image: url("../img/arcade.jpg");
+  background-image: url("https://steamusercontent-a.akamaihd.net/ugc/90473660315078778/EF11E06557A829974E7F9AC7E667ED605600BD9E/");
 }
 
 /*HERO SECTION*/
@@ -128,7 +128,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 50vh;
   width: 100%;
   height: 100vh;
-  background-image: url("https://i.kinja-img.com/gawker-media/image/upload/s--05wDNMzy--/c_scale,f_auto,fl_progressive,q_80,w_800/c7oox9ffvh7ikrf8y2sp.png");
+  background-image: url("https://media.giphy.com/media/RIjNmd8hJ896pAClyC/giphy.gif");
   background-size: cover;
 }
 
